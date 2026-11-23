@@ -6,6 +6,9 @@
 <details>
   <summary>awards</summary>
   
-  Here is your hidden text, images, or code!
+   [pt-everypony](https://github.com/pt-everypony) [THE-TEMPIST](https://github.com/THE-TEMPIST)
 </details>
+
+
+
 
