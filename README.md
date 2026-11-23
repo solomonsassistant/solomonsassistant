@@ -4,9 +4,9 @@
 
 
 <details>
-  <summary>awards</summary>
+  <summary> awards♡</summary>
   
-   [pt-everypony](https://github.com/pt-everypony) [THE-TEMPIST](https://github.com/THE-TEMPIST)
+   [pt-everypony](https://github.com/pt-everypony) [THE-TEMPIST](https://github.com/THE-TEMPIST) [pony-town-nominations](https://github.com/pony-town-nominations)
 </details>
 
 
