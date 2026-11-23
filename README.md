@@ -6,8 +6,8 @@
 <details>
   <summary>ㅤawards ♡</summary>
   
-   [pt-everypony](https://github.com/pt-everypony)ㅤ[THE-TEMPIST](https://github.com/THE-TEMPIST)ㅤ[pony-town-nominations](https://github.com/pony-town-nominations)
-</details>
+<p align= 'center'> [pt-everypony](https://github.com/pt-everypony)ㅤ[THE-TEMPIST](https://github.com/THE-TEMPIST)ㅤ[pony-town-nominations](https://github.com/pony-town-nominations)
+</details> </p>
 
 
 
