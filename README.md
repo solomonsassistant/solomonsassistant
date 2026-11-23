@@ -3,4 +3,9 @@
 <p align= "center"> <img src="https://github.com/solomonsassistant/solomonsassistant/blob/37dbcc86934afcffd61d0efe96222324f6515c06/Untitled70%20(1).png"width="250"> </p>
 
 
+<details>
+  <summary>》Awards</summary>
+  
+  Here is your hidden text, images, or code!
+</details>
 
