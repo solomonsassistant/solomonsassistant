@@ -6,7 +6,7 @@
 <details>
   <summary>ㅤawards ♡</summary>
   
-<p align= "center"> <a href=[pt-everypony](https://github.com/pt-everypony)ㅤ[THE-TEMPIST](https://github.com/THE-TEMPIST)ㅤ[pony-town-nominations](https://github.com/pony-town-nominations)>
+<p align= "center"> <a href="[pt-everypony](https://github.com/pt-everypony)ㅤ[THE-TEMPIST](https://github.com/THE-TEMPIST)ㅤ[pony-town-nominations](https://github.com/pony-town-nominations)">
 </details> </a> </p>
 
 
