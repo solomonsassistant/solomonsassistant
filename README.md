@@ -4,7 +4,7 @@
 
 
 <details>
-  <summary>》Awards</summary>
+  <summary>awards</summary>
   
   Here is your hidden text, images, or code!
 </details>
