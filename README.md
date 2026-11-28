@@ -6,7 +6,7 @@
 <details>
   <summary>ㅤawards ♡</summary>
   
-[pt-everypony](https://github.com/pt-everypony)ㅤ[THE-TEMPIST](https://github.com/THE-TEMPIST)ㅤ[pony-town-nominations](https://github.com/pony-town-nominations)
+[pt-everypony](https://github.com/pt-everypony)ㅤ[THE-TEMPIST](https://github.com/THE-TEMPIST)ㅤ[pony-town-nominations](https://github.com/pony-town-nominations)ㅤ[Knox-Event](https://github.com/Knox-Event)
 
 tysm xoxo!! ^^
 </details>
